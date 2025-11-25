@@ -11,12 +11,6 @@
       "source": "/(.*)",
       "destination": "/apps/web/dist/$1"
     }
-  ],
-  "functions": {
-    "api/**/*.ts": {
-      "memory": 1024,
-      "maxDuration": 10
-    }
-  }
+  ]
 }
 
