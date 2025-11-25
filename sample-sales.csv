@@ -1,0 +1,32 @@
+Date,Category,Product,Price,Quantity
+2024-01-15,Electronics,Laptop,1299.99,5
+2024-01-16,Electronics,Mouse,29.99,15
+2024-01-16,Electronics,Keyboard,79.99,10
+2024-01-17,Clothing,T-Shirt,19.99,25
+2024-01-17,Clothing,Jeans,59.99,12
+2024-01-18,Electronics,Monitor,399.99,8
+2024-01-18,Home,Coffee Maker,89.99,6
+2024-01-19,Home,Blender,49.99,9
+2024-01-19,Electronics,Headphones,149.99,20
+2024-01-20,Clothing,Jacket,129.99,7
+2024-01-20,Electronics,Tablet,599.99,4
+2024-01-21,Home,Microwave,199.99,5
+2024-01-21,Clothing,Sneakers,89.99,18
+2024-01-22,Electronics,Webcam,79.99,11
+2024-01-22,Home,Vacuum Cleaner,249.99,3
+2024-01-23,Clothing,Dress,79.99,14
+2024-01-23,Electronics,USB Cable,12.99,30
+2024-01-24,Home,Toaster,39.99,8
+2024-01-24,Electronics,Power Bank,45.99,16
+2024-01-25,Clothing,Hoodie,49.99,22
+2024-01-25,Electronics,Smart Watch,299.99,6
+2024-01-26,Home,Desk Lamp,34.99,10
+2024-01-26,Clothing,Socks,9.99,40
+2024-01-27,Electronics,Router,119.99,7
+2024-01-27,Home,Kitchen Scale,24.99,12
+2024-01-28,Clothing,Scarf,24.99,15
+2024-01-28,Electronics,External SSD,179.99,9
+2024-01-29,Home,Air Purifier,159.99,4
+2024-01-29,Clothing,Belt,29.99,20
+2024-01-30,Electronics,Gaming Mouse,69.99,13
+

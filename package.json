@@ -1,0 +1,24 @@
+{
+  "name": "data-processing-dashboard",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Full-stack data processing and visualization dashboard",
+  "scripts": {
+    "dev": "pnpm --filter \"./apps/*\" --parallel dev",
+    "build": "pnpm --filter \"./apps/*\" build",
+    "build:api": "pnpm --filter api build",
+    "build:web": "pnpm --filter web build"
+  },
+  "keywords": [
+    "dashboard",
+    "data-processing",
+    "fullstack"
+  ],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18.0.0",
+    "pnpm": ">=8.0.0"
+  }
+}
+

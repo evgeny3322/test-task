@@ -1,0 +1,213 @@
+[
+  {
+    "Date": "2024-01-15",
+    "Category": "Electronics",
+    "Product": "Laptop",
+    "Price": 1299.99,
+    "Quantity": 5
+  },
+  {
+    "Date": "2024-01-16",
+    "Category": "Electronics",
+    "Product": "Mouse",
+    "Price": 29.99,
+    "Quantity": 15
+  },
+  {
+    "Date": "2024-01-16",
+    "Category": "Electronics",
+    "Product": "Keyboard",
+    "Price": 79.99,
+    "Quantity": 10
+  },
+  {
+    "Date": "2024-01-17",
+    "Category": "Clothing",
+    "Product": "T-Shirt",
+    "Price": 19.99,
+    "Quantity": 25
+  },
+  {
+    "Date": "2024-01-17",
+    "Category": "Clothing",
+    "Product": "Jeans",
+    "Price": 59.99,
+    "Quantity": 12
+  },
+  {
+    "Date": "2024-01-18",
+    "Category": "Electronics",
+    "Product": "Monitor",
+    "Price": 399.99,
+    "Quantity": 8
+  },
+  {
+    "Date": "2024-01-18",
+    "Category": "Home",
+    "Product": "Coffee Maker",
+    "Price": 89.99,
+    "Quantity": 6
+  },
+  {
+    "Date": "2024-01-19",
+    "Category": "Home",
+    "Product": "Blender",
+    "Price": 49.99,
+    "Quantity": 9
+  },
+  {
+    "Date": "2024-01-19",
+    "Category": "Electronics",
+    "Product": "Headphones",
+    "Price": 149.99,
+    "Quantity": 20
+  },
+  {
+    "Date": "2024-01-20",
+    "Category": "Clothing",
+    "Product": "Jacket",
+    "Price": 129.99,
+    "Quantity": 7
+  },
+  {
+    "Date": "2024-01-20",
+    "Category": "Electronics",
+    "Product": "Tablet",
+    "Price": 599.99,
+    "Quantity": 4
+  },
+  {
+    "Date": "2024-01-21",
+    "Category": "Home",
+    "Product": "Microwave",
+    "Price": 199.99,
+    "Quantity": 5
+  },
+  {
+    "Date": "2024-01-21",
+    "Category": "Clothing",
+    "Product": "Sneakers",
+    "Price": 89.99,
+    "Quantity": 18
+  },
+  {
+    "Date": "2024-01-22",
+    "Category": "Electronics",
+    "Product": "Webcam",
+    "Price": 79.99,
+    "Quantity": 11
+  },
+  {
+    "Date": "2024-01-22",
+    "Category": "Home",
+    "Product": "Vacuum Cleaner",
+    "Price": 249.99,
+    "Quantity": 3
+  },
+  {
+    "Date": "2024-01-23",
+    "Category": "Clothing",
+    "Product": "Dress",
+    "Price": 79.99,
+    "Quantity": 14
+  },
+  {
+    "Date": "2024-01-23",
+    "Category": "Electronics",
+    "Product": "USB Cable",
+    "Price": 12.99,
+    "Quantity": 30
+  },
+  {
+    "Date": "2024-01-24",
+    "Category": "Home",
+    "Product": "Toaster",
+    "Price": 39.99,
+    "Quantity": 8
+  },
+  {
+    "Date": "2024-01-24",
+    "Category": "Electronics",
+    "Product": "Power Bank",
+    "Price": 45.99,
+    "Quantity": 16
+  },
+  {
+    "Date": "2024-01-25",
+    "Category": "Clothing",
+    "Product": "Hoodie",
+    "Price": 49.99,
+    "Quantity": 22
+  },
+  {
+    "Date": "2024-01-25",
+    "Category": "Electronics",
+    "Product": "Smart Watch",
+    "Price": 299.99,
+    "Quantity": 6
+  },
+  {
+    "Date": "2024-01-26",
+    "Category": "Home",
+    "Product": "Desk Lamp",
+    "Price": 34.99,
+    "Quantity": 10
+  },
+  {
+    "Date": "2024-01-26",
+    "Category": "Clothing",
+    "Product": "Socks",
+    "Price": 9.99,
+    "Quantity": 40
+  },
+  {
+    "Date": "2024-01-27",
+    "Category": "Electronics",
+    "Product": "Router",
+    "Price": 119.99,
+    "Quantity": 7
+  },
+  {
+    "Date": "2024-01-27",
+    "Category": "Home",
+    "Product": "Kitchen Scale",
+    "Price": 24.99,
+    "Quantity": 12
+  },
+  {
+    "Date": "2024-01-28",
+    "Category": "Clothing",
+    "Product": "Scarf",
+    "Price": 24.99,
+    "Quantity": 15
+  },
+  {
+    "Date": "2024-01-28",
+    "Category": "Electronics",
+    "Product": "External SSD",
+    "Price": 179.99,
+    "Quantity": 9
+  },
+  {
+    "Date": "2024-01-29",
+    "Category": "Home",
+    "Product": "Air Purifier",
+    "Price": 159.99,
+    "Quantity": 4
+  },
+  {
+    "Date": "2024-01-29",
+    "Category": "Clothing",
+    "Product": "Belt",
+    "Price": 29.99,
+    "Quantity": 20
+  },
+  {
+    "Date": "2024-01-30",
+    "Category": "Electronics",
+    "Product": "Gaming Mouse",
+    "Price": 69.99,
+    "Quantity": 13
+  }
+]
+
