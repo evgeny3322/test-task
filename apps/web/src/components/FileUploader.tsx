@@ -1,7 +1,7 @@
 // File: /apps/web/src/components/FileUploader.tsx
 import { useCallback } from 'react';
 import { useDropzone } from 'react-dropzone';
-import { Box, Typography, Paper } from '@mui/material';
+import { Typography, Paper } from '@mui/material';
 import CloudUploadIcon from '@mui/icons-material/CloudUpload';
 
 interface FileUploaderProps {

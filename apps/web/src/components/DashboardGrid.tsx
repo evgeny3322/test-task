@@ -1,6 +1,6 @@
 // File: /apps/web/src/components/DashboardGrid.tsx
 import { DataGrid, GridColDef, GridToolbar } from '@mui/x-data-grid';
-import { Paper, Box } from '@mui/material';
+import { Paper } from '@mui/material';
 
 interface DashboardGridProps {
   data: any[];

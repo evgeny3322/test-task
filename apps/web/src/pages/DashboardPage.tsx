@@ -10,7 +10,6 @@ import {
   Button,
   CircularProgress,
   Alert,
-  Chip,
   Divider,
 } from '@mui/material';
 import ArrowBackIcon from '@mui/icons-material/ArrowBack';
@@ -305,7 +304,7 @@ export default function DashboardPage() {
                   fill="#8884d8"
                   dataKey="count"
                 >
-                  {groupedChartData.map((entry, index) => (
+                  {groupedChartData.map((_, index) => (
                     <Cell key={`cell-${index}`} fill={COLORS[index % COLORS.length]} />
                   ))}
                 </Pie>
